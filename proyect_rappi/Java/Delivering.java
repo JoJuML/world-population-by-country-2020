@@ -15,7 +15,7 @@ class Delivering {
     }
     void imp_deliver(){
         System.out.println("la entrega se hace: \n");
-        System.out.println("usuario :"+user.name+" con el repartidor: "+deliver.name+ " producto: "+product.name+" brand: "+product.brand);
+        System.out.println("usuario :"+user.name+" con el repartidor: "+deliver.name+ " producto: "+product.name+" brand: "+product.brand+" amount: "+product.getAmount());
     }
     public void setAmount(int i) {
     }
