@@ -1,8 +1,6 @@
-# PROYECT_RAPPI
-## proyecto basado en el curso de platzi POO donde:
-* ### se manejaron 2 principales lenguajes JAVA y PYTHON
-* ### se añadieron las clases: user, deliver y delivering como homologos del ejemplo de la clase: user, driver y trip
-* ### se tiene ejemplos de productos y delibering con encapsulammiento
+# WORLD POPULATION BY COUNTRY 2020
+## proyecto basado en datos de la poblacion mundial 2020:
+* ### el programa indicara la diferencia del cambio de la poblacion con respecto al 2021 su espectativa y el incremento neto, del pais elegido
+* ### se mostrara un grafico de torta (pastel) donde se indican los paises que tienen un numero similar de habitantes 
+* ### el archivo: world-population-by-country-2020.csv se obtuvo en https://www.kaggle.com/
 --------------------------------------------------
-con el sigiente diagrama:
-[diagrama rappi.pdf](https://github.com/JoseJuML/PROYECT_RAPPI/files/9735882/diagrama.rappi.pdf)
